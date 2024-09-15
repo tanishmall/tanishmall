@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🚀 Like many, "Hello, World!" was my coding debut in 11th grade.<br>✨ Creating bugs since 2018<br>🎓 I've just wrapped up my Computer Science degree and I’m looking forward to what’s next in tech!<br>📚 I'm currently learning Flutter and DART<br>my first hello world was back in grade 11</p>
+<p align="left">🚀 Like many, "Hello, World!" was my coding debut in 11th grade.<br>✨ Creating bugs since 2018<br>🎓 I've just wrapped up my Computer Science degree and I’m looking forward to what’s next in tech!<br>📚 I'm currently learning Flutter and DART<br></p>
 
 ###
 
